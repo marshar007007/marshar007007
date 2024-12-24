@@ -7,10 +7,12 @@ Slow and steady wins the race.
 - Basic Python
 - Basic SQL
 - Project Management
+- Digital literacy 
 
 ## 🌱 Interests
 - Creative Writing
 - Civic Engagement
+- Education 
 
 ## 📫 Let's Connect
 - [GitHub Profile](https://github.com/marshar007007) 
