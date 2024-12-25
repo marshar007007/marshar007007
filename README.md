@@ -1,7 +1,5 @@
-** To introdue myself**
 # Hi there, I'm Marshar 👋
 
-** To write my bio which describe my attitude**
 ## 🌟 Bio
 Slow and steady wins the race.
 
