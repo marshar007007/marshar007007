@@ -3,9 +3,8 @@
 
 ## About Me
 
-- 🎓 Major: Statistics and Data Science
-- 🌱 Currently learning: Python, and SQL
-- 💡 Interests fields: Project management, AI in education
+- 🌱 Currently learning: Foundation Track of MIT Emerging Talent Certificate in Computer and Data Science 
+- 💡 Interests fields: Project management, AI in education, Women Empowerment
 
 ## 🛠️ Skills
 
