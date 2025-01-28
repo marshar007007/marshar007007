@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 🌱 Currently learning: Foundation Track of MIT Emerging Talent Certificate in Computer and Data Science 
+- 🌱 Currently learning: Statistics and Data Science at Parami University 
 - 💡 Interests fields: Project management, AI in education, Women Empowerment
 
 ## 🛠️ Skills
