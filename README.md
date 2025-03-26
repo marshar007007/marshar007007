@@ -10,7 +10,7 @@
 
 - **Programming:** Basic Python, SQL
 - **Tools:** DataCamp SQL Associate, Git, VS Code
-- **Special Interests:** Cybersecurity and Data Science
+- **Special Interests:** Data Science, Education, Civic Engagement
 
 <!-- I use my social media link in profile to connect with professional people-->
 ## Let's connect
