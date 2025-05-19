@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills
 
-- **Programming:** Basic Python, SQL
+- **Programming:** Python, SQL
 - **Tools:** DataCamp SQL Associate, Git, VS Code
 - **Special Interests:** Data Science, Education, Civic Engagement
 
