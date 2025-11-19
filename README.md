@@ -3,8 +3,8 @@
 
 ## About Me
 
-- 🌱 Currently learning: Statistics and Data Science at Parami University 
-- 💡 Interests fields: Project management, AI in education, Women Empowerment
+- 🌱 Currently learning: Statistics and Data Science at Parami University
+- 💡 Interests fields: Project management, AI in education
 
 ## 🛠️ Skills
 
@@ -18,3 +18,4 @@
 - [LinkedIn](https://www.linkedin.com/in/thandar-htwe-6482421ab)
 - [GitHub](https://github.com/marshar007007)
 - [Email](thandarhtwe2002@gmail.com)
+
