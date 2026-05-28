@@ -4,13 +4,13 @@
 ## About Me
 
 - 🌱 Currently learning: Statistics and Data Science at Parami University
-- 💡 Interests fields: Project management, AI in education
+- 💡 Interests fields: Machine Learning, Project management, AI in education
 
 ## 🛠️ Skills
 
 - **Programming:** Python, SQL
 - **Tools:** DataCamp SQL Associate, Git, VS Code
-- **Special Interests:** Data Science, Education, Civic Engagement
+- **Special Interests:** Data Science, Education, Civic Engagement, Social Impact 
 
 <!-- I use my social media link in profile to connect with professional people-->
 ## Let's connect
